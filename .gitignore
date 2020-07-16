@@ -1,2 +1,5 @@
 
 assets/images/.DS_Store
+_site/
+.DS_Store
+Gemfile.lock
