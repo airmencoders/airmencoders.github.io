@@ -1,6 +1,6 @@
 main:
-    - title: "Internships"
-      url: /internships/
+    - title: "Join Us"
+      url: /join/
     - title: "Projects"
       url: "/projects/"
     - title: "MQF App"
