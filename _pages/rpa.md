@@ -4,7 +4,8 @@ title: "Robotic Process Automation"
 ---
 Airmen Coders is excited to partner with Tron to support your Robotic Process Automation efforts! We have provided shared code repositories and secure chat rooms for you to collaborate with fellow Airmen as you build out your automations. Have a question? Reach out to us via MM or send us an email.
 
-## Learn about RPA today
+## Learn about RPA today and the challenge that got us started
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQAdqNU4LsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Robot 4 Every Airmen site](https://robot4everyairman.net/home/)*
 
 *no federal endorsement intended 
