@@ -9,7 +9,9 @@ Airmen Coders is excited to partner with Tron to support your Robotic Process Au
 *no federal endorsement intended 
 
 ## View current projects & code
-[Click to view our Git repos](https://code.il2.dsop.io/tron/products/AirmenCoders/rpa)
+Your fellow automating Airmen are sharing their code here:
+
+[Click to view projects/code](https://code.il2.dsop.io/tron/products/AirmenCoders/rpa)
 
 ## Add your RPA project to Airmen Coders
 
