@@ -2,6 +2,7 @@
 permalink: /rpa/
 title: "Robotic Process Automation"
 ---
+Airmen Coders is excited to support your Robotic Process Automation efforts! We have provided shared code repositories and secure chat rooms for you to collaborate with fellow Airmen as you build out your automations. Have a question? Reach out to us via MM or send us an email.
 
 ## View current projects & code
 [Click to view our Git repos](https://code.il2.dsop.io/tron/products/AirmenCoders/rpa)
