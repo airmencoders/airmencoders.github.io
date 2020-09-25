@@ -42,6 +42,6 @@ None. The course is paid for and is a virtual TDY so no travel expenses will be 
 Officers will receive an AF475, Enlisted and Civilian members will receive an LOE. 
 
 ### Who should I reach out to with questions?
-If you are in the Space Force, please reach out to supra.coders@afwerx.af.mil.
+If you are in the Space Force, please reach out to supra.coders [at] afwerx.af.mil.
 
-Otherwise, please reach out to airmencoders@afwerx.af.mil.
+Otherwise, please reach out to airmencoders [at] afwerx.af.mil.
