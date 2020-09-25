@@ -19,7 +19,7 @@ We are offering a Software Development Immersive this October to motivated Air F
 
 **Why:** Software touches everything we do in the military and we believe this is a great oppurtunity to improve our collective skills and knowledge. Learn more in the "Apply Now" link!  
 
-[APPLY HERE](https://auth.galvanize.com/register?uid=785290cba96b236082){: .btn .btn--success}  
+[APPLY HERE](https://auth.galvanize.com/register?uid=785290cba96b236082){: .btn .btn--success}  [FAQs](/sdi-faq){: .btn .btn--info}  
 
 
 
