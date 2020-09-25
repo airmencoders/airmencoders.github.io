@@ -3,8 +3,8 @@ main:
       url: /join/
     - title: "Projects"
       url: "/projects/"
-    - title: "MQF App"
-      url: /projects/mqf/
+    - title: "SDI Course"
+      url: /sdi/
     - title: "Learn"
       url: /learn/
     - title: software.af.mil
