@@ -41,7 +41,7 @@ We are offering a Software Development Immersive this October to motivated Air F
 * 9 November Immersive begins
 
 ### SDI Poster
- ![Info Poster](/assets/images/19Oct9NovSDI.png)
+ ![Info Poster](/assets/images/Oct19Nov9SDI.png)
 
 
 ### Supporting Units
