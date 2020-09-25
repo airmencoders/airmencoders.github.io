@@ -7,7 +7,7 @@ toc: true
 
 
 Fellow Coders,
-We are offering a Software Development Immersive this October to motivated Air Force members who want to boost their development skills. 
+We are offering a Software Development Immersive for motivated DoD members who want to boost their development skills. 
 
 **Who:** Anyone in the DoD, we are focusing on USSF & USAF members for these cohorts.  
 

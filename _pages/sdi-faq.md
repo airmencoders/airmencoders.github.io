@@ -26,6 +26,7 @@ Your application is not complete and will not be considered until all of the abo
 ### Course Tech Requirements
 * A development capable laptop
  * Must be able to install programs including Git, VSCode, node, npm, and docker.
+ * Macs are ideal but PCs will work as well
 * A working webcam & mic (ZoomGov is used for instruction)
 
 In general NIPR computers do not meet course requirments, some units have special permissions on their NIPR machines but this is the exception. 
@@ -36,3 +37,11 @@ No. This is a full time formal training course, you will be working full days pl
 
 ### What are the costs to me or my unit?
 None. The course is paid for and is a virtual TDY so no travel expenses will be required.
+
+### What do I get when I complete the course?
+Officers will receive an AF475, Enlisted and Civilian members will receive an LOE. 
+
+### Who should I reach out to with questions?
+If you are in the Space Force, please reach out to supra.coders@afwerx.af.mil.
+
+Otherwise, please reach out to airmencoders@afwerx.af.mil.
