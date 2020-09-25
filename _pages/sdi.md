@@ -40,11 +40,11 @@ We are offering a Software Development Immersive this October to motivated Air F
 * 29 October Notification of selected applicants.
 * 9 November Immersive begins
 
-### Supra Coders Poster
- ![Info Poster](/assets/images/19Oct9NovSDI.PNG)
+### SDI Poster
+ ![Info Poster](/assets/images/19Oct9NovSDI.png)
 
 
-### Participating Units
+### Supporting Units
 * [Space CAMP](https://software.af.mil/softwarefactory/spacecamp/)
 * [Platform One](https://software.af.mil/team/platformone/)
 * [TronGov](https://tronaf.dev)
