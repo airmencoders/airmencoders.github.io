@@ -28,7 +28,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 * Apply - Open Now
   - Commanders must sign MOU for supporting applicants. 
   - Score on assessment and date of completed application will be considered in final selection.
-* 1 October Application Closes (including signed Commander MOU)
+* 7 October Application Closes (including signed Commander MOU)
 * 5 October Notification of selected applicants.
 * 19 October Class Start Date
 * Jan 15 Last Day of Class
