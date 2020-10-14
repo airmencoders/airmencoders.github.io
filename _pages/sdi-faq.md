@@ -39,7 +39,7 @@ No. This is a full time formal training course, you will be working full days pl
 None. The course is paid for and is a virtual TDY so no travel expenses will be required.
 
 ### I'm guard/reserve, can I get days for this course?
-Airmen Coders and Tron do not have MPA or any other types of guard/reserve days for this course. Members are encouraged to talk to their units about being put on orders for the duration of the course, this is between the member and their unit. The SDI does not require a specific duty status. 
+Unfortunately, Airmen Coders and Tron do not have MPA or any other types of guard/reserve days for this course. Members are encouraged to talk to their units about being put on orders for the duration of the course, this is between the member and their unit. The SDI does not require a specific duty status.
 
 ### What do I get when I complete the course?
 Officers will receive an AF475, Enlisted and Civilian members will receive an LOE. 
