@@ -2,7 +2,7 @@
 permalink: /join/
 title: "Join Us"
 ---
-
+ 
 # We would love to have you are part of out team!
 
 Couple ways to get started:
