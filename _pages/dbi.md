@@ -3,7 +3,7 @@ permalink: /dbi/
 title: "USAF Cyberspace Support Digital Badging"
 toc: true
 ---
-![CyberSpace Support Logo](/assets/images/CyberSpaceSupportLogo.png)
+![CyberSpace Support Logo](/assets/images/CyberSpaceSupportLogo.png){: .align-center}
 
 Please direct questions about this initiative to 336TRS.CyberspaceProg.DigitalBadging@us.af.mil or
 336TRS.CyberspaceTrans.DigitalBadging@us.af.mil.
