@@ -44,6 +44,11 @@ For additional information, please direct questions to:
 * [XP Developer Bronze](/assets/docs/DBI/XPDeveloper_Bronze_Checklist.pdf)
 * [XP Developer Silver](/assets/docs/DBI/XPDeveloper_Silver_Checklist.pdf)
 * [XP Developer Gold](/assets/docs/DBI/XPDeveloper_Gold_Checklist.pdf)
+
+* [XP Product Manager Bronze](/assets/docs/DBI/XPProductManager_Bronze_Checklist.pdf)
+* [XP Product Manager Silver](/assets/docs/DBI/XPProductManager_Silver_Rubric.pdf)
+* [XP Product Manager Gold](/assets/docs/DBI/XPProductManager_Master_Checklist.pdf)
+
 ### 3Dxxx General
 #### Quality Assurance
 #### Project Management
