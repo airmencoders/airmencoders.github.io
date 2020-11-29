@@ -59,7 +59,7 @@ For additional information, please direct questions to:
 
 #### Quality Assurance
 * [QA Bronze](/assets/docs/DBI/QA_Bronze_Checklist.pdf)
-* [QA Silver](/assets/docs/DBI/QA_Silver_Checklist.pdf.pdf)
+* [QA Silver](/assets/docs/DBI/QA_Silver_Checklist.pdf)
 * [QA Gold](/assets/docs/DBI/QA_Gold_Checklist.pdf)
 
 #### Project Management
