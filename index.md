@@ -22,7 +22,7 @@ feature_row:
 ![Airmen Coders logo with #BuiltByAirmen](/assets/images/AirmenCodersFull500x276.png){: .align-center}  
 
 <p align="center">We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen. 
-Airmen Coders is proudly #PoweredByTron</p>
+<br /> Airmen Coders is proudly #PoweredByTron</p>
 <br /><br />
 {% include feature_row %}
   
