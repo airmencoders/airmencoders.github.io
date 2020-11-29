@@ -39,9 +39,14 @@ For additional information, please direct questions to:
 ## Badge Checklists
 ### 3D0xx Software
 #### C-Language Developer
-
+* [C-Language Developer](/assets/docs/DBI/CLangDeveloper_Basic_Checklist.pdf)
 #### Agile Software Fundamentals
-
+* [XP Developer Bronze](/assets/docs/DBI/XPDeveloper_Bronze_Checklist.pdf)
+* [XP Developer Silver](/assets/docs/DBI/XPDeveloper_Silver_Checklist.pdf)
+* [XP Developer Gold](/assets/docs/DBI/XPDeveloper_Gold_Checklist.pdf)
 ### 3Dxxx General
 #### Quality Assurance
 #### Project Management
+
+### 3D1xx Hardware
+#### NMI
