@@ -37,3 +37,11 @@ For additional information, please direct questions to:
 336TRS.CyberspaceTrans.DigitalBadging@us.af.mil
 
 ## Badge Checklists
+### 3D0xx Software
+#### C-Language Developer
+
+#### Agile Software Fundamentals
+
+### 3Dxxx General
+#### Quality Assurance
+#### Project Management
