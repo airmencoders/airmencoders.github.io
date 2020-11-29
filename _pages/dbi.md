@@ -2,6 +2,8 @@
 permalink: /dbi/
 title: "USAF Cyberspace Support Digital Badging"
 ---
+Please direct questions about this initiative to 336TRS.CyberspaceProg.DigitalBadging@us.af.mil or
+336TRS.CyberspaceTrans.DigitalBadging@us.af.mil.
 
 ## Background
 Members of the cyberspace support community participated in a career field manager-led working group to establish a digital badging construct for the 3DXXX community. This project is part of a Collaborative Research and Development Agreement (CRADA) between HQ AETC/A3BA and Credly, Inc.
