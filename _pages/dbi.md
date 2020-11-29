@@ -43,17 +43,31 @@ For additional information, please direct questions to:
 * [C-Language Developer](/assets/docs/DBI/CLangDeveloper_Basic_Checklist.pdf)
 
 #### Agile Software Fundamentals
+* [Agile Badge Checklist](/assets/docs/DBI/AgileSoftwareFundamentals_Rubric.pdf)
+
+#### XP Developer
 * [XP Developer Bronze](/assets/docs/DBI/XPDeveloper_Bronze_Checklist.pdf)
 * [XP Developer Silver](/assets/docs/DBI/XPDeveloper_Silver_Checklist.pdf)
 * [XP Developer Gold](/assets/docs/DBI/XPDeveloper_Gold_Checklist.pdf)
 
+#### XP Product Manager
 * [XP Product Manager Bronze](/assets/docs/DBI/XPProductManager_Bronze_Checklist.pdf)
 * [XP Product Manager Silver](/assets/docs/DBI/XPProductManager_Silver_Rubric.pdf)
 * [XP Product Manager Gold](/assets/docs/DBI/XPProductManager_Master_Checklist.pdf)
 
 ### 3Dxxx General
+
 #### Quality Assurance
+* [QA Bronze](/assets/docs/DBI/QA_Bronze_Checklist.pdf)
+* [QA Silver](/assets/docs/DBI/QA_Silver_Checklist.pdf.pdf)
+* [QA Gold](/assets/docs/DBI/QA_Gold_Checklist.pdf)
+
 #### Project Management
+* [XP Developer Bronze](/assets/docs/DBI/XPDeveloper_Bronze_Checklist.pdf)
+* [XP Developer Silver](/assets/docs/DBI/XPDeveloper_Silver_Checklist.pdf)
+* [XP Developer Gold](/assets/docs/DBI/XPDeveloper_Gold_Checklist.pdf)
 
 ### 3D1xx Hardware
+
 #### NMI
+* [NMI Bronze through Platinum](/assets/docs/DBI/NMI Badge_Checklist.pdf)
