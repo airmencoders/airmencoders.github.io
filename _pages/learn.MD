@@ -3,6 +3,9 @@ permalink: /learn/
 title: "Learning to Code"
 toc: true
 ---
+## Check out our Software Development Immersive Course 
+[SDI Course](/sdi){: .btn .btn--success}  
+
 
 ## Great Resources for Learning Modern Software Development
 Useful links to get you started - no federal indorsment intended or implied. Contact us to help point you in the right direction for your project.
