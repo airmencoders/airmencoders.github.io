@@ -17,6 +17,8 @@ Our vision is that digital badges will serve in lieu of legacy training systems 
 
 Digital badges are unlike traditional learning histories and archive systems because they provide consumers with access to underlying metadata (i.e., digital portfolio of programs, training, and developmental experiences). Each badge recognizes a unique skill set and provides an opportunity for the cyberspace support community to showcase their abilities. This is a new method to recognize talent and track development.
 
+[Read the Memo](/assets/docs/DBI/Cyberspace_InfoSheet.pdf){: .btn .btn--info}  
+
 
 ## Earning Process
 As part of the badge-earning process, individuals will compile evidence that substantiates their achievements, which will require a higher-level validation review. For the Cyberspace Support community, the Earner’s supervisor will act as the badge review authority. Each badge has a linked rubric/checklist for evidence review and recommendation for award of the badge.
