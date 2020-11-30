@@ -5,8 +5,9 @@ main:
       url: "/projects/"
     - title: "Learn"
       url: /learn/
-      - title: "SDI Course"
-        url: /sdi/
+      children:
+        - title: "SDI Course"
+          url: /sdi/
     - title: Digital Badges
       url: /dbi/
     - title: Tron
