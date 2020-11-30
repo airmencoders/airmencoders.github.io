@@ -3,12 +3,14 @@ main:
       url: /join/
     - title: "Projects"
       url: "/projects/"
-    - title: "SDI Course"
-      url: /sdi/
     - title: "Learn"
       url: /learn/
+      - title: "SDI Course"
+        url: /sdi/
     - title: Digital Badges
       url: /dbi/
+    - title: Tron
+      url: "https://trongov.us"
 
 side:
     - title: Projects
