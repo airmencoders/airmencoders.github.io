@@ -32,7 +32,7 @@ After the Earner reviews the badge criteria, completes the requisite tasks, comp
 FirstnameLastname_Badgename_YYYYMMDD **
 
 ## Digital Badging Pathway
- ![Digital Badging Pathways](/assets/images/DigitalBadgingPathways.png)
+[![Digital Badging Pathways](/assets/images/DBIPathways.png)](/assets/images/DBIPathways.png)
  The above digital badging pathway is a recommendation for the order in which Earners should achieve badges. The badges progress in difficulty from the basic Bronze level, to the intermediate Silver and then the advanced Gold level (NMI has an additional Platinum level master badge). While each AFSC has their own targeted badges, there are general tracks for Quality Assurance and Project Management for any AFSC. Even though these badges are focused on the 3D0X4 and 3D1X2 AFSCs, anyone that meets the earning criteria may earn the badge(s).
 For additional information, please direct questions to: 
 336TRS.CyberspaceProg.DigitalBadging@us.af.mil
@@ -65,9 +65,9 @@ For additional information, please direct questions to:
 * [QA Gold](/assets/docs/DBI/QA_Gold_Checklist.pdf)
 
 #### Project Management
-* [XP Developer Bronze](/assets/docs/DBI/XPDeveloper_Bronze_Checklist.pdf)
-* [XP Developer Silver](/assets/docs/DBI/XPDeveloper_Silver_Checklist.pdf)
-* [XP Developer Gold](/assets/docs/DBI/XPDeveloper_Gold_Checklist.pdf)
+* [Project Manager Bronze](/assets/docs/DBI/ProjMngt_Bronze_Checklist.pdf)
+* [Project Manager Silver](/assets/docs/DBI/ProjMngt_Silver_Checklist.pdf)
+* [Project Manager Gold](/assets/docs/DBI/ProjMngt_Gold_Checklist.pdf)
 
 ### 3D1xx Hardware
 
