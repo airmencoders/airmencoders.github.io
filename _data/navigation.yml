@@ -7,8 +7,8 @@ main:
       url: /sdi/
     - title: "Learn"
       url: /learn/
-    - title: software.af.mil
-      url: https://software.af.mil
+    - title: Digital Badges
+      url: /dbi/
 
 side:
     - title: Projects
