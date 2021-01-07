@@ -41,6 +41,24 @@ We are offering a Software Development Immersive for motivated DoD members who w
 * 29 October Notification of selected applicants.
 * 9 November Class Start Date
 
+#### Cohort 4 (22 Feb)
+* Apply - Open Now
+ - Commanders must sign MOU for supporting applicants.
+ - Score on assessment and date of completed application will be considered in final selection.
+* 29 January Application Closes (including signed Commander MOU)
+* 3 February Notification of selected applicants.
+* 22 February Class Start Date
+* 14 May Last Day of Class
+
+#### Cohort 5 (7 Jun)
+* Apply - Open Now 
+ - Commanders must sign MOU for supporting applicants.
+* Score on assessment and date of completed application will be considered in final selection.
+* 14 May Application Closes (including signed Commander MOU)
+* 19 May Notification of selected applicants.
+* 7 June Class Start Date
+* 27 August Last Day of Class 
+
 ### SDI Poster
  [![Info Poster](/assets/images/Oct19Nov9SDI.png)](https://auth.galvanize.com/register?uid=785290cba96b236082)
 
