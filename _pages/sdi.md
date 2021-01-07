@@ -60,7 +60,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 * 27 August Last Day of Class 
 
 ### SDI Poster
- [![Info Poster](/assets/images/Oct19Nov9SDI.png)](https://auth.galvanize.com/register?uid=785290cba96b236082)
+ [![Info Poster](/assets/images/Feb22Jun7SDI.png)](https://auth.galvanize.com/register?uid=785290cba96b236082)
 
 
 ### Supporting Units
