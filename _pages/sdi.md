@@ -13,7 +13,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 
 **What:** Software development experience to boost your skills.
 
-**When:** 19 Oct OR 9 Nov start date, 3 month immersive course
+**When:** 22 Feb OR 7 Jun start date, 3 month immersive course
 
 **Where:** Full time virtual.  
 
@@ -24,22 +24,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 
 
 ### Timeline
-#### Cohort 2 (19 Oct)
-* Apply - Open Now
-  - Commanders must sign MOU for supporting applicants. 
-  - Score on assessment and date of completed application will be considered in final selection.
-* 7 October Application Closes (including signed Commander MOU)
-* 5 October Notification of selected applicants.
-* 19 October Class Start Date
-* Jan 15 Last Day of Class
 
-#### Cohort 3 (9 Nov)
-* Apply - Open Now
-  - Commanders must sign MOU for supporting applicants. 
-  - Score on assessment and date of completed application will be considered in final selection.
-* 22 October Application Closes (including signed Commander MOU)
-* 29 October Notification of selected applicants.
-* 9 November Class Start Date
 
 #### Cohort 4 (22 Feb)
 * Apply - Open Now
