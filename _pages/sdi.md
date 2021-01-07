@@ -3,8 +3,6 @@ permalink: /sdi/
 title: "Software Development Immersive"
 toc: true
 ---
-  
-### Applications are now closed, stay tuned for our next cohorts 
 
 Fellow Coders,
 We are offering a Software Development Immersive for motivated DoD members who want to boost their development skills. 
