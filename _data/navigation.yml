@@ -5,11 +5,10 @@ main:
       url: "/projects/"
     - title: "Learn"
       url: /learn/
-      children:
-        - title: "SDI Course"
-          url: /sdi/
     - title: Digital Badges
       url: /dbi/
+    - title: "SDI Course"
+      url: /sdi/
     - title: Tron
       url: "https://trongov.us"
 
