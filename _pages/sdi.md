@@ -11,7 +11,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 
 **What:** Software development experience to boost your skills.
 
-**When:** 22 Feb OR 7 Jun start date, 3 month immersive course
+**When:** 22 Feb OR 7 Jun start date, 12 week immersive course + 3 months 25% time.
 
 **Where:** Full time virtual.  
 
