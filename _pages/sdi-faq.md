@@ -43,6 +43,9 @@ Unfortunately, Airmen Coders and Tron do not have MPA or any other types of guar
 
 The cost of the course is covered by Tron, no TDY costs are required, however funding the member's days is up to the sponsoring unit. Members will be expected to attend class M-F and as such should not be expected to be available to drill during the week.
 
+### Can I attend in ART status?
+Yes, all the same rquirements for CC release and class attendance apply. See above more guard/reserve details.
+
 ### What do I get when I complete the course?
 Officers will receive an AF475, Enlisted and Civilian members will receive an LOE. 
 
