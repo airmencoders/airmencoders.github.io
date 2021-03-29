@@ -47,7 +47,7 @@ The cost of the course is covered by Tron, no TDY costs are required, however fu
 Yes, all the same rquirements for CC release and class attendance apply. See above more guard/reserve details.
 
 ### What do I get when I complete the course?
-Officers will receive an AF475, Enlisted and Civilian members will receive an LOE. 
+Officers, Enlisted, and Civilian members will receive an LOE. 
 
 ### Who should I reach out to with questions?
 If you are in the Space Force, please reach out to supra.coders [at] afwerx.af.mil.
