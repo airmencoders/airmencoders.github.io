@@ -7,6 +7,7 @@ toc: true
 ## Applications are now closed
 Thank you to the hundreds Airmen, Guardians, and Soldiers who applied for the June 7 course. Unfortunetly with only a 25 slots available we were not able to admit many qualified and worthy service members (4% acceptance rate). We hope to offer more courses in the future but do not currently have any funded cohorts. If your organization wishes to fund SDI seats please reach out and we will put you in contact with the vendor.
 
+________
 
 Fellow Coders,
 We are offering a Software Development Immersive for motivated DoD members who want to boost their development skills. 
