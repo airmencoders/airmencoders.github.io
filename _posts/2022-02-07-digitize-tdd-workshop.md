@@ -1,6 +1,6 @@
 ---
 title:  "Test Driven Development Workshop with Digitize"
-categories: [digitize]
+categories: [announcements, digitize]
 tags: [Digitize, Learn, tron, phoenix spark, learn, tdd, announcements, news]
 ---
 
