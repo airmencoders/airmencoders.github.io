@@ -1,7 +1,7 @@
 ---
 title:  "Test Driven Development Workshop with Digitize"
 categories: [digitize, tron, phoenix spark, learn, tdd, announcements, news]
-tags: [SDI]
+tags: [Digitize, Learn]
 ---
 
 Use test driven development to create a simple to-do application on a .mil domain with Digitize!
