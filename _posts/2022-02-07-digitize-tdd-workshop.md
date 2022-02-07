@@ -1,6 +1,6 @@
 ---
 title:  "Test Driven Development Workshop with Digitize"
-categories: [software development immersive,sdi, announcements, news]
+categories: [digitize, tron, phoenix spark, learn, tdd, announcements, news]
 tags: [SDI]
 ---
 
