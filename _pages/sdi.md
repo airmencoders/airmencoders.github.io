@@ -31,7 +31,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 
 **Why:** Software touches everything we do in the military and we believe this is a great oppurtunity to improve our collective skills and knowledge. Learn more in the "Apply Now" link!  
 
-[APPLY HERE](https://auth.galvanize.com/register?uid=bda6970f70e0155f93){: .btn .btn--success}  [FAQs](/sdi-faq){: .btn .btn--info}  
+[APPLY HERE](https://sites.google.com/galvanize.com/federal/home-page){: .btn .btn--success}  [FAQs](/sdi-faq){: .btn .btn--info}  
 
 
 
@@ -48,7 +48,7 @@ We are offering a Software Development Immersive for motivated DoD members who w
 * 27 August Last Day of Class 
 
 ### SDI Poster
- [![Info Poster](/assets/images/SDI2021Jun7.png)](https://auth.galvanize.com/register?uid=785290cba96b236082)
+ [![Info Poster](/assets/images/SDI2021Jun7.png)](https://sites.google.com/galvanize.com/federal/home-page)
 
 
 ### Supporting Units
